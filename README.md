@@ -2,7 +2,7 @@
 - 👀 I’m interested in time management
 - 🌱 I’m currently learning coding in C and GO
 - 📫 How to reach me ...
-- 🚀 I'm currently studying at 42 Heilbronn
+- 🚀 I'm currently studying at [42 Heilbronn](https://www.42heilbronn.de/en/)
 - 💻 Active member of [CORE GAME](https://coregame.de)
 
 <!---
